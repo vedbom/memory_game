@@ -1,6 +1,3 @@
-// start date: 21/10/2021
-// finish data: 15/01/2022
-
 import java.util.*;
 
 CardManager game;
